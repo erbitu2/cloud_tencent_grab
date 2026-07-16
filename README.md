@@ -25,7 +25,6 @@ pip install requests
 
 手动从腾讯云网站获取：登录网站后F12通过控制台执行 document\.cookie 命令获取
 
-\!\[Cookie获取图片\]\(此处替换为你的图片地址\)
 
 ## 使用方法
 
